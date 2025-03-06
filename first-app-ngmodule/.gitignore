@@ -1,0 +1,37 @@
+# Ignore system and user-specific directories
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build artifacts
+dist/
+.angular/
+.tmp/
+
+# Ignore environment files
+src/environments/environment.ts
+src/environments/environment.prod.ts
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
