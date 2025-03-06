@@ -30,7 +30,6 @@ The **Course Listing App** is a simple Angular-based application that allows use
    ```bash
    ng serve
    ```
-5. Open your browser and go to `http://localhost:4200/` to view the app.
 
 ## Usage
 - Enter a keyword in the search box to filter courses.
